@@ -25,7 +25,7 @@ ul {
 
 #container {
     background: #333;
-    width: 360px;
+    width: 500px;
     margin: 30px left;
     overflow: hidden;
     padding: 20px;
@@ -60,14 +60,16 @@ ul {
 #main {
     float: left;
     width: 45%;
+    text-align: lef;
 
 }
 
 #sidebar {
     float: right;
     width: 50%;
-    background: #666;
+    background: rgba(63, 188, 199, 0.582);
     margin-top: 10px;
+  padding: 10px 10px 10px;
 }
 
 #footer {
