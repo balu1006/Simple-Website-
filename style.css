@@ -1,0 +1,97 @@
+body {
+    border: 10px #cccccc solid;
+    padding: 10px 0 10px;
+    background: #333;
+    color: #fff;
+    font-family: arial;
+    line-height: 0:9em;
+    padding-left: 5px;
+}
+
+a {
+
+    color: #fff;
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+
+}
+
+.clr {
+    clear: both;
+}
+
+#container {
+    background: #333;
+    width: 360px;
+    margin: 30px left;
+    overflow: hidden;
+    padding: 20px;
+}
+
+#nav {
+    height: 40px;
+    background: #666;
+
+}
+
+#nav ul {
+    border: 3, 09px #cccccc solid;
+    padding-top: 1: 0px auto;
+    padding-left: 0.5px;
+
+}
+
+
+#nav li {
+    list-style: none;
+    float: left;
+    padding-right: 20px;
+}
+
+#nav .active {
+    font-weight: bold;
+    color: #000;
+
+}
+
+#main {
+    float: left;
+    width: 45%;
+
+}
+
+#sidebar {
+    float: right;
+    width: 50%;
+    background: #666;
+    margin-top: 10px;
+}
+
+#footer {
+    border: 10px #cccccc solid;
+    text-align: center;
+    padding: 10px;
+    background: #666;
+    margin-top: 10px;
+
+}
+
+.Services li {
+    border-bottom: 5px #666 dashed;
+    padding-bottom: 20px;
+}
+
+.Services a {
+    background: #6666;
+    padding: 10px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 15px;
+}
